@@ -1,5 +1,7 @@
 package numtext
 
+import "fmt"
+
 type Magnitude struct {
 	Magnitude int64
 	Symbol    string
